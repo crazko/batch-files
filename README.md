@@ -1,4 +1,6 @@
-## Rename list of PDF files
+## Batch files
+
+### Rename list of PDF files
 
 Puts **.X** after file name.
 
